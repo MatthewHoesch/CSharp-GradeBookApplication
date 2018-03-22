@@ -1,0 +1,11 @@
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.deps.json
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.runtimeconfig.json
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.runtimeconfig.dev.json
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.dll
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.pdb
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.csprojResolveAssemblyReference.cache
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.AssemblyInfoInputs.cache
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.AssemblyInfo.cs
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.dll
+/Users/Matthew/Desktop/CSharp-GradeBookApplication/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.pdb
